@@ -2,9 +2,6 @@
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cadel.png)](https://tryhackme.com/p/cadel)
 
-## Languages
-## 🛠️ Skills
-
 ###  Languages
 
 <p>
