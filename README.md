@@ -3,9 +3,14 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cadel.png)](https://tryhackme.com/p/cadel)
 
 ## Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+## 🛠️ Skills
 
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 - 🌱 I’m currently learning cybersecurity
 - ISTEC 
